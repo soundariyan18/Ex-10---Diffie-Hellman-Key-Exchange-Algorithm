@@ -9,9 +9,12 @@ To implement key exchange between users using Diffie Hellman algorithm.
 
 <h2>ALGORITHM:</h2> 
 
-step 1.Get the input for prime number p 
-step 2.Calculate the primitive root of p that is g. 
+step 1.Get the input for prime number p
+
+step 2.Calculate the primitive root of p that is g.
+
 step 3.Calculate private keys for both users using p and g values. 
+
 step 4.Similarly, secret keys for both users are calculated. 
 
 <h1>PROGRAM:</h1>
